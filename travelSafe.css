@@ -1,0 +1,22 @@
+
+div.row{
+	border: 6px solid 0x000;
+	margin: 10px;
+
+}
+#map{
+	margin-top: 10px;
+	height: 90%;
+    padding: 2px;
+    display: block;
+    position: relative;
+   
+}
+#side-menu{
+	margin-top: 10px;
+	height: 90%;
+	display: block;
+	float: right;
+	border: 10px;
+}
+
